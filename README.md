@@ -10,7 +10,7 @@ The purpose of this project is to learn a popular programming language (i.e., Py
 
 |Start Date|End Date|
 |----------------|--------------|
-|January 18, 2018|*IN PROGRESS*|
+|June 01, 2022|*IN PROGRESS*|
 
 ## Table of Contents and Exercises
 
